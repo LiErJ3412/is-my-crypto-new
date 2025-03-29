@@ -1,0 +1,8 @@
+{
+    "SILICON_API_KEY": "[Your_api_key]",
+    "Bearer_API_KEY": "[Your_api_key]",
+    "TEMPLATES": [
+         "I have the following CTF cryptography challenge:\n\n=======\n[[ORIGINAL]]\n=======\n\nPlease analyze the algorithm's structure while ignoring specific variable names and constant values. Focus on:Extract the core cryptographic problem and all essential technical details. mathjax ($...$) for math. Provide the succinct simplified statement directly without jargon. Start your response with 'Simplified statement:'"
+    ],
+    "CUSTOM_HEADER": ""
+}

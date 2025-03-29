@@ -1,0 +1,10 @@
+beautifulsoup4==4.11.1
+fastapi==0.112.0
+gradio==4.41.0
+lingua==4.15.0
+numpy==1.24.4
+Requests==2.32.3
+together==1.2.7
+tqdm==4.66.4
+uvicorn==0.30.5
+voyageai==0.2.3
