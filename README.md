@@ -4,7 +4,7 @@
 
 同时感谢Copilot辅助编程（qwq
 
-**服务上线：**[crypto原题机](http://14.103.134.49:8000/)，买了域名但是懒得备案了（，气抖冷。
+**服务上线：**[crypto原题机](http://www.baidu.com)，买了域名但是懒得备案了（，气抖冷。
 
 **更新 (2025/3/29):** 数据收集完成！基于语义搜索构建了CTF密码学原题库，收录了来自各大CTF比赛的密码学题目。使用 **DeepSeek-R1-Distill-Qwen-32B**作为LLM模型，通过 [硅基流动](https://cloud.siliconflow.cn/) 提供服务，搭配 
 **bge-large-en-v1.5** 进行向量嵌入。
